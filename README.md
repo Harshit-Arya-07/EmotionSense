@@ -20,24 +20,19 @@ EmotionSense is a facial emotion detection system that uses computer vision and 
 ### 1. Clone the repository
 
 git clone https://github.com/Harshit-Arya-07/EmotionSense.git
-cd EmotionSense
+
 
 
 🧠 Model
+
 The model is trained on the FER-2013 dataset and can classify the following emotions:
 
 Happy
-
 Sad
-
 Angry
-
 Surprise
-
 Neutral
-
 Fear
-
 Disgust
 
 📁 Project Structure
@@ -49,15 +44,17 @@ EmotionSense/
 ├── emotionsense.py
 ├── requirements.txt
 └── README.md
+
+
 ✨ Future Improvements
 Add GUI using Tkinter or PyQt
-
 Display emotion history graph
-
 Support for multiple faces at once
+
 
 👨‍💻 Author
 Harshit Arya
+
 
 📜 License
 This project is open-source and available under the MIT License
