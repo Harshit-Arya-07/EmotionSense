@@ -18,7 +18,7 @@ EmotionSense is a facial emotion detection system that uses computer vision and 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/Harshit-Arya-07/EmotionSense.git
 cd EmotionSense
 
